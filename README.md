@@ -1,9 +1,7 @@
 # Bankruptcy Prediction – Polish Companies
 
 Group assignment for **DA2111 – Statistical and Machine Learning**
-Department of Decision Science, Faculty of Business, University of Moratuwa (Semester 4).
-
-**Authors:** Ravindu Weerasekara, Bavindu Gunasinghe, Naveen Sandeepa
+Department of Decision Science, Faculty of Business, University of Moratuwa (Semester 4)
 
 ## Problem
 Can we classify a company as **bankrupt** or **non-bankrupt** from its financial ratios, so that investors, creditors and management can act early?
